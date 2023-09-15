@@ -1,0 +1,36 @@
+﻿  Bullet.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  CMng.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  DXUTsound.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\DXUTsound.cpp(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'dxerr.h': No such file or directory
+  DeviceFont.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Enemy.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  EnemyBullet.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Game.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  GameManager.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  key.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Logo.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Main.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Map.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Menu.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Mysql.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Over.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sound.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sprite.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Worms.cpp
+C:\Users\대원\Desktop\PROJECT\FrameWork\FrameWork\Include.h(19,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
